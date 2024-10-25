@@ -20,10 +20,10 @@ export default function NewTask({ onAddTask }: NewTaskProps) {
   return (
     <form onSubmit={handleSubmit}>
       <p>
-        <label htmlFor="task">Your task</label>
+        <label htmlFor="task">Task</label>
         <input id="task" type="text" ref={task} />
 
-        <label htmlFor="summary">Short summary</label>
+        <label htmlFor="summary">Summary</label>
         <input id="summary" type="text" ref={summary} />
       </p>
       <p>

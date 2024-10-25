@@ -18,7 +18,12 @@ export default function ToDoList({
 
   let warningBox: ReactNode;
   if (tasks.length >= 4) {
-    warningBox = <InfoBox mode="warning"> You have too much tasks.</InfoBox>;
+    warningBox = (
+      <InfoBox mode="warning" severity="high">
+        {" "}
+        You have too much tasks. Don't put too much on your plate!
+      </InfoBox>
+    );
   }
 
   return (

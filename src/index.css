@@ -70,6 +70,10 @@ input:focus {
   border-color: #c4a978;
 }
 
+input:hover {
+  background-color: hsl(60, 2%, 88%);
+}
+
 form button {
   display: block;
   width: 100%;
