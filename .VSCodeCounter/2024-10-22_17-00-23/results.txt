@@ -1,0 +1,61 @@
+Date : 2024-10-22 17:00:23
+Directory : c:\Users\admin\gitHub\react-ts-basics
+Total : 23 files,  3763 codes, 8 comments, 86 blanks, all 3857 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |      3,336 |          4 |          8 |      3,348 |
+| CSS                |          2 |        174 |          0 |         31 |        205 |
+| TypeScript JSX     |          7 |        159 |          2 |         29 |        190 |
+| Markdown           |          1 |         40 |          0 |         11 |         51 |
+| JavaScript         |          1 |         27 |          0 |          2 |         29 |
+| HTML               |          1 |         13 |          0 |          1 |         14 |
+| JSON with Comments |          1 |          7 |          0 |          1 |          8 |
+| TypeScript         |          2 |          5 |          2 |          3 |         10 |
+| XML                |          2 |          2 |          0 |          0 |          2 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                              | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                 |         23 |      3,763 |          8 |         86 |      3,857 |
+| . (Files)                                                         |         11 |      3,428 |          5 |         25 |      3,458 |
+| public                                                            |          1 |          1 |          0 |          0 |          1 |
+| src                                                               |         11 |        334 |          3 |         61 |        398 |
+| src (Files)                                                       |          5 |        218 |          1 |         39 |        258 |
+| src\assets                                                        |          1 |          1 |          0 |          0 |          1 |
+| src\components                                                    |          5 |        115 |          2 |         22 |        139 |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                          | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\admin\gitHub\react-ts-basics\README.md                   | Markdown           |         40 |          0 |         11 |         51 |
+| c:\Users\admin\gitHub\react-ts-basics\eslint.config.js            | JavaScript         |         27 |          0 |          2 |         29 |
+| c:\Users\admin\gitHub\react-ts-basics\index.html                  | HTML               |         13 |          0 |          1 |         14 |
+| c:\Users\admin\gitHub\react-ts-basics\package-lock.json           | JSON               |      3,267 |          0 |          1 |      3,268 |
+| c:\Users\admin\gitHub\react-ts-basics\package.json                | JSON               |         29 |          0 |          1 |         30 |
+| c:\Users\admin\gitHub\react-ts-basics\public\vite.svg             | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\admin\gitHub\react-ts-basics\src\App.css                 | CSS                |         37 |          0 |          6 |         43 |
+| c:\Users\admin\gitHub\react-ts-basics\src\App.tsx                 | TypeScript JSX     |         35 |          0 |          5 |         40 |
+| c:\Users\admin\gitHub\react-ts-basics\src\assets\react.svg        | XML                |          1 |          0 |          0 |          1 |
+| c:\Users\admin\gitHub\react-ts-basics\src\components\Header.tsx   | TypeScript JSX     |         16 |          1 |          3 |         20 |
+| c:\Users\admin\gitHub\react-ts-basics\src\components\InfoBox.tsx  | TypeScript JSX     |         20 |          1 |          4 |         25 |
+| c:\Users\admin\gitHub\react-ts-basics\src\components\NewTask.tsx  | TypeScript JSX     |         28 |          0 |          7 |         35 |
+| c:\Users\admin\gitHub\react-ts-basics\src\components\ToDoList.tsx | TypeScript JSX     |         34 |          0 |          5 |         39 |
+| c:\Users\admin\gitHub\react-ts-basics\src\components\ToDoTask.tsx | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| c:\Users\admin\gitHub\react-ts-basics\src\index.css               | CSS                |        137 |          0 |         25 |        162 |
+| c:\Users\admin\gitHub\react-ts-basics\src\main.tsx                | TypeScript JSX     |          9 |          0 |          2 |         11 |
+| c:\Users\admin\gitHub\react-ts-basics\src\vite-env.d.ts           | TypeScript         |          0 |          1 |          1 |          2 |
+| c:\Users\admin\gitHub\react-ts-basics\tsconfig.app.json           | JSON               |         20 |          2 |          3 |         25 |
+| c:\Users\admin\gitHub\react-ts-basics\tsconfig.app.tsbuildinfo    | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\admin\gitHub\react-ts-basics\tsconfig.json               | JSON with Comments |          7 |          0 |          1 |          8 |
+| c:\Users\admin\gitHub\react-ts-basics\tsconfig.node.json          | JSON               |         18 |          2 |          3 |         23 |
+| c:\Users\admin\gitHub\react-ts-basics\tsconfig.node.tsbuildinfo   | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\admin\gitHub\react-ts-basics\vite.config.ts              | TypeScript         |          5 |          1 |          2 |          8 |
+| Total                                                             |                    |      3,763 |          8 |         86 |      3,857 |
++-------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

@@ -1,0 +1,25 @@
+"filename", "language", "JSON", "JSON with Comments", "TypeScript", "TypeScript JSX", "XML", "CSS", "Markdown", "JavaScript", "HTML", "comment", "blank", "total"
+"c:\Users\admin\gitHub\react-ts-basics\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 40, 0, 0, 0, 11, 51
+"c:\Users\admin\gitHub\react-ts-basics\eslint.config.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 27, 0, 0, 2, 29
+"c:\Users\admin\gitHub\react-ts-basics\index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\admin\gitHub\react-ts-basics\package-lock.json", "JSON", 3267, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3268
+"c:\Users\admin\gitHub\react-ts-basics\package.json", "JSON", 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 30
+"c:\Users\admin\gitHub\react-ts-basics\public\vite.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\admin\gitHub\react-ts-basics\src\App.css", "CSS", 0, 0, 0, 0, 0, 37, 0, 0, 0, 0, 6, 43
+"c:\Users\admin\gitHub\react-ts-basics\src\App.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 0, 0, 5, 40
+"c:\Users\admin\gitHub\react-ts-basics\src\assets\react.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\admin\gitHub\react-ts-basics\src\components\Header.tsx", "TypeScript JSX", 0, 0, 0, 16, 0, 0, 0, 0, 0, 1, 3, 20
+"c:\Users\admin\gitHub\react-ts-basics\src\components\InfoBox.tsx", "TypeScript JSX", 0, 0, 0, 20, 0, 0, 0, 0, 0, 1, 4, 25
+"c:\Users\admin\gitHub\react-ts-basics\src\components\NewTask.tsx", "TypeScript JSX", 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 7, 35
+"c:\Users\admin\gitHub\react-ts-basics\src\components\ToDoList.tsx", "TypeScript JSX", 0, 0, 0, 34, 0, 0, 0, 0, 0, 0, 5, 39
+"c:\Users\admin\gitHub\react-ts-basics\src\components\ToDoTask.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 3, 20
+"c:\Users\admin\gitHub\react-ts-basics\src\index.css", "CSS", 0, 0, 0, 0, 0, 137, 0, 0, 0, 0, 25, 162
+"c:\Users\admin\gitHub\react-ts-basics\src\main.tsx", "TypeScript JSX", 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 2, 11
+"c:\Users\admin\gitHub\react-ts-basics\src\vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"c:\Users\admin\gitHub\react-ts-basics\tsconfig.app.json", "JSON", 20, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 25
+"c:\Users\admin\gitHub\react-ts-basics\tsconfig.app.tsbuildinfo", "JSON", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\admin\gitHub\react-ts-basics\tsconfig.json", "JSON with Comments", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"c:\Users\admin\gitHub\react-ts-basics\tsconfig.node.json", "JSON", 18, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 23
+"c:\Users\admin\gitHub\react-ts-basics\tsconfig.node.tsbuildinfo", "JSON", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\admin\gitHub\react-ts-basics\vite.config.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 3336, 7, 5, 159, 2, 174, 40, 27, 13, 8, 86, 3857
