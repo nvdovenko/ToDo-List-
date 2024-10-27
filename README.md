@@ -1,5 +1,7 @@
 # ToDo List App
-A simple Todo List application built with React and TypeScript. It allows you to add tasks to the list, view them, and delete them as needed.
+A simple Todo List application built with React and TypeScript. It allows you to add tasks to the list, view them, and delete them as needed. The application also uses localStorage to persist tasks across browser sessions.
+
+Goal
 
 ## Goal
 
@@ -7,10 +9,11 @@ Create a Todo List app with the following features:
 - View the task list
 - Add new tasks
 - Delete tasks from the list
+- Persist tasks using localStorage
 
 ## Description
 
-This application is designed to demonstrate basic functionality using React and TypeScript. It includes a minimalist interface with an input field for entering tasks and an "Add" button. All tasks are displayed in a list, and each can be deleted.
+This application is designed to demonstrate basic functionality using React and TypeScript. It includes a minimalist interface with an input field for entering tasks and an "Add" button. All tasks are displayed in a list, and each can be deleted. The use of localStorage ensures that the task list remains available even after closing and reopening the browser.
 
 ### Tech Stack
 
